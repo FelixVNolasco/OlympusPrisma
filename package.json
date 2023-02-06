@@ -25,6 +25,7 @@
     "supertest": "^6.2.1"
   },
   "dependencies": {
+    "@prisma/client": "^4.9.0",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "crypto-js": "^4.1.1",
